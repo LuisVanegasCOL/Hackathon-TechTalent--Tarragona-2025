@@ -351,16 +351,7 @@ Dashboard completo con métricas, gráficos y gestión de inventario.
 
 ---
 
-## 👥 Equipo
-
 Proyecto desarrollado por el equipo ganador del Hackathon TechTalent Tarragona 2024:
-
-- **[Nombre]** - Full Stack Developer
-- **[Nombre]** - Frontend Specialist  
-- **[Nombre]** - Backend & AI Engineer
-- **[Nombre]** - UX/UI Designer
-- **[Nombre]** - Data Analyst
-
 ---
 
 ## 🔮 Futuras Mejoras
@@ -397,13 +388,6 @@ Proyecto desarrollado por el equipo ganador del Hackathon TechTalent Tarragona 2
 
 ---
 
-## 📞 Contacto
-
-- **Email**: [tu-email@ejemplo.com]
-- **LinkedIn**: [Tu LinkedIn]
-- **GitHub**: [Tu GitHub]
-
----
 
 ## 📄 Licencia
 
