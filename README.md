@@ -46,7 +46,7 @@
 
 ## 🏆 Hackathon TechTalent
 
-Este proyecto fue desarrollado durante el **Hackathon de Tarragona organizado por TechTalent**, donde nuestro equipo logró el **primer lugar** 🥇.
+Este proyecto fue desarrollado durante el **Hackathon de Tarragona organizado por TechTalent**, donde nuestro equipo logró Superar el Reto Planteado* 🥇.
 
 ### 🎯 Reto del Hackathon
 Crear una solución tecnológica innovadora que impulse la digitalización y el crecimiento del ecosistema empresarial local de Tarragona.
