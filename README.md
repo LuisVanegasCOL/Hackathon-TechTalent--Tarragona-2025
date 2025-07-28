@@ -7,7 +7,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://www.mysql.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.11-blue.svg)](https://tailwindcss.com/)
 
-> **🎉 Proyecto ganador del Hackathon de Tarragona - TechTalent 2024**  
+> **🎉 Proyecto  Hackathon de Tarragona - TechTalent 2025**  
 > Una plataforma innovadora que conecta productores locales con consumidores a través de IA y tecnologías modernas.
 
 ---
